@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Media Centre]]></title>
+        <description><![CDATA[The Media Centre]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 May 2016 08:34:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Twin peaks: Vollebak's high-tech sportswear aids recovery.]]></title>
+            <description><![CDATA[<article><h1>Twin peaks: Vollebak's high-tech sportswear aids recovery.</h1><p>Hi-tech sportswear generally makes a number of simple promises, usually concentrating on the during of what you do rather than the before or after. New London-based adventure clothing brand Vollebak takes a more experimental, tangential approach to performance enhancement.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c17637c9681425629a927fa5a32fb7a6c749fce5.jpg"></article>]]></description>
+            <link>http://www.wallpaper.com/lifestyle/clothing-brand-vollebak-introduces-two-high-tech-jackets-for-athletes-seeking-perfomance-enhancement</link>
+            <guid isPermaLink="false">1c687fd2-c2ce-4ea7-a987-f5145ef3f937</guid>
+            <pubDate>Wed, 18 May 2016 08:34:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
