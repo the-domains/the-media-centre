@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[The Media Centre]]></title>
         <description><![CDATA[The Media Centre]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-media-centre/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 08:34:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 May 2016 08:35:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-media-centre/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Precious cargo: the Container Artist Residency program sets sail.]]></title>
+            <description><![CDATA[<article><h1>Precious cargo: the Container Artist Residency program sets sail.</h1><p>Aboard commercial cargo ships is where the Container Artist Residency 01 program is finding its abode. Completely isolated from the rest of the world, the Residency allows its artists to work in a remote space with no tangible lines of communication to the outside world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d759350ce98ca3bc139cec56370ae7702fae3f5.jpg"></article>]]></description>
+            <link>http://www.wallpaper.com/art/the-container-artist-residency-program-sets-sail</link>
+            <guid isPermaLink="false">bebfcc26-1e46-40ab-a036-508865ef2897</guid>
+            <pubDate>Wed, 18 May 2016 08:34:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sevenhugs' Smart Remote]]></title>
+            <description><![CDATA[<article><h1>Sevenhugs' Smart Remote</h1><p>Looking to simplify the endless number of apps and interfaces used to control smart-home products, French start-up Sevenhugs has introduced the first "contextually aware" universal Smart Remote. In other words, it's the first remote to understand where it is in your home and what it's pointing at, allowing users to simply point and click to control devices instead of switching between apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df1caa77bd36920224edf22d445e863c5b829e80.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/sevenhugs-smart-remote</link>
+            <guid isPermaLink="false">bd323f8f-16a6-4c45-b881-8d982d6ab087</guid>
+            <pubDate>Wed, 18 May 2016 08:34:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Twin peaks: Vollebak's high-tech sportswear aids recovery.]]></title>
             <description><![CDATA[<article><h1>Twin peaks: Vollebak's high-tech sportswear aids recovery.</h1><p>Hi-tech sportswear generally makes a number of simple promises, usually concentrating on the during of what you do rather than the before or after. New London-based adventure clothing brand Vollebak takes a more experimental, tangential approach to performance enhancement.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c17637c9681425629a927fa5a32fb7a6c749fce5.jpg"></article>]]></description>
