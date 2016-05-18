@@ -6,9 +6,9 @@ color:
   saturation: 0.5426740802358836
   rhythmicContrast: 0.4632451459765434
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
 name: The Media Centre
